@@ -24,6 +24,7 @@
     'data': [
         'security/academy_security.xml',
         'security/ir.model.access.csv',
+        'view/academy_menuitems.xml',
     ],
     
     'demo': [
