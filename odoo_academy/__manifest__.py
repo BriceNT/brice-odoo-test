@@ -19,7 +19,7 @@
     'category': 'Training',
     'version': '0.1',
     
-    'depends': ['sale'],
+    'depends': ['sale', 'website'],
     
     'data': [
         'security/academy_security.xml',
@@ -30,6 +30,8 @@
         'view/sale_view_inherit.xml',
         'view/product_views_inherit.xml',
         'wizard/sale_wizard_view.xml',
+        'report/session_report_templates.xml',
+        'view/academy_web_templates.xml',
     ],
     
     'demo': [
