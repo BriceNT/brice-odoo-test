@@ -28,6 +28,8 @@
         'view/course_views.xml',
         'view/session_views.xml',
         'view/sale_view_inherit.xml',
+        'view/product_views_inherit.xml',
+        'wizard/sale_wizard_view.xml',
     ],
     
     'demo': [
